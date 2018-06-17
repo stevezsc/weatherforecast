@@ -1,0 +1,9 @@
+G:\编程项目\测试\weather\weather\bin\Debug\weather.exe.config
+G:\编程项目\测试\weather\weather\obj\Debug\weather.csprojResolveAssemblyReference.cache
+G:\编程项目\测试\weather\weather\obj\Debug\weather.Properties.Resources.resources
+G:\编程项目\测试\weather\weather\obj\Debug\weather.csproj.GenerateResource.Cache
+G:\编程项目\测试\weather\weather\bin\Debug\weather.exe
+G:\编程项目\测试\weather\weather\bin\Debug\weather.pdb
+G:\编程项目\测试\weather\weather\obj\Debug\weather.exe
+G:\编程项目\测试\weather\weather\obj\Debug\weather.pdb
+G:\编程项目\测试\weather\weather\obj\Debug\weather.FormMain.resources
