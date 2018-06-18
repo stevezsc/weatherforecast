@@ -77,6 +77,7 @@ namespace weather
                 
             }
         }
+       ///获取中文部分
         private string GetChineseWord(string oriText)
         {
             string x = @"[\u4E00-\u9FFF]+";
